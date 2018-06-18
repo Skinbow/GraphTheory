@@ -11,7 +11,7 @@ void Chocolate() {
     if (k > n*m) std::cout << "NO" << std::endl;
     else if (k % m == 0 || k % n == 0) std::cout << "YES" << std::endl;
     else std::cout << "NO" << std::endl;
-    return;
+    return;n
 }
 
 int main() {
